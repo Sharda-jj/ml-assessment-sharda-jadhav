@@ -1,4 +1,4 @@
-###B1-PROBLEM FORMULATION 
+### B1-PROBLEM FORMULATION 
 
 ### (a) Problem Formulation:
 
@@ -35,7 +35,7 @@ This approach accounts for the fact that customer behaviour and promotion effect
 By capturing these differences, the model can provide more accurate and personalized promotion recommendations for each store, leading to better business outcomes.
 
 
-###B2-DATA AND EDA STRATEGY 
+### B2-DATA AND EDA STRATEGY 
 
 ### (a) Data Joining and Dataset Structure:
 
@@ -94,7 +94,7 @@ To address this, a few steps can be taken:
 - If needed, use resampling techniques to balance the dataset.
 
 
-###B3-MODEL EVALUATION and DEPLOYMENT
+### B3-MODEL EVALUATION and DEPLOYMENT
 
 ### (a) Train-Test Split and Evaluation:
 
